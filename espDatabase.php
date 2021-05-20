@@ -9,7 +9,7 @@
   copies or substantial portions of the Software.
 -->
 <?php
-  $servername = "http://localhost/phpmyadmin/";
+  $servername = "http://localhost/";
 
   // REPLACE with your Database name
   $dbname = "esp_temp";
