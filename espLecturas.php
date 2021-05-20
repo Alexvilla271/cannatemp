@@ -115,7 +115,6 @@
                     <th>Location</th>
                     <th>Value 1</th>
                     <th>Value 2</th>
-                    <th>Value 3</th>
                     <th>Timestamp</th>
                 </tr>';
 
