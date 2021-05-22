@@ -1,2 +1,2 @@
-websocketserver = 'broker.mqtt.direccion';
+websocketserver = 'tubroker.mqtt.direccion';
 websocketport = 8000;
