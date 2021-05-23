@@ -12,7 +12,7 @@ class dht11{
  }
  
  function storeInDB($temperature, $humidity){
-  $query = "insert into datos set humidity='".$humidity."', temperature='".$temperature."'";
+  $query = "insert into dht11 set humidity='".$humidity."', temperature='".$temperature."'";
   $result = mysqli_query($this->link,$query) or die('Errant query:  '.$query);
  }
  
